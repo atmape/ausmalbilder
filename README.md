@@ -22,3 +22,4 @@ scrapy crawl <name>
 | SCRAPY Aufruf | Dateityp | Anmerkung |
 | --- | --- | --- |
 | `scrapy crawl malvorlagen-bilder.de` | PDF | Direkt von Seite|
+| `scrapy crawl ausmalbilder.org` | PDF | Bilder werden zu PDF umgewandelt - Viele Bilder!|
