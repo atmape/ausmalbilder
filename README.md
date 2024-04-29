@@ -1,7 +1,7 @@
 # Download von Ausmalbildern
 
-Es werden verschiedene Seiten für Ausmalbildern mittels `scrapy` durchsucht und ein 
-Download der Bilder durchgeführt
+Es werden verschiedene Seiten für Ausmalbildern mittels [`scrapy`](https://scrapy.org/) durchsucht und ein 
+Download der Bilder (und falls notwendig in PDF umgewandelt) durchgeführt
 
 ## Setup
 
